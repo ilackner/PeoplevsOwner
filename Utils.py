@@ -1,3 +1,9 @@
+#This is NVIDIA property and is being used for educational purposes only. I am using this code because I am still learning and this is the most effective way, personally, to read the imports and so on. 
+
+
+
+
+
 # Copyright 2020 NVIDIA
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
